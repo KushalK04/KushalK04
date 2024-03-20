@@ -1,45 +1,7 @@
-<html lang="en">
-<head>
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f0f0f0;
-  }
-
-  .container {
-    text-align: center;
-  }
-
-  .snake {
-    width: 150px;
-    height: 150px;
-    background-image: url('https://media.giphy.com/media/3o7TKLqGgUj52Pbbs8/giphy.gif');
-    background-size: cover;
-    animation: moveSnake 5s infinite;
-  }
-
-  @keyframes moveSnake {
-    0% {
-      transform: translateX(-50%);
-    }
-    50% {
-      transform: translateX(50%);
-    }
-    100% {
-      transform: translateX(-50%);
-    }
-  }
-</style>
-</head>
+<html>
 <body>
 
 <div class="container">
-  <div class="snake"></div>
   <h1>Hi, my name is Kushal Kumar</h1>
   <h2>UI/UX Designer/Developer</h2>
   
@@ -50,6 +12,9 @@
   <br><br/>
   
   <p>Here are my skills:</p>
+  
+  <br/>
+
   <div class="skills">
     <img src="https://img.shields.io/badge/HTML5-Advanced-orange">
     <img src="https://img.shields.io/badge/CSS3-Advanced-blue">
@@ -80,11 +45,6 @@
     <img src="https://img.shields.io/badge/MySQL-Intermediate-blue">
   </div>
 
-  <br/>
-
-  <div class="skills">
-    
-  </div>
 </div>
 
 </body>
