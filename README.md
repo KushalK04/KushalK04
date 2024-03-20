@@ -12,6 +12,9 @@
   </a>
 
   <br/>
+  <br/>
+  <br/>
+  <br/>
 
   <p>Here are my skills:</p>
   
