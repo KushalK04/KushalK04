@@ -4,7 +4,9 @@
 <div class="container">
   <h1>Hi, my name is Kushal Kumar</h1>
   <h2>UI/UX Designer/Developer</h2>
-  <h2>View my portfolio! -> (Portfolio)[https://kushalk.design]</h2>
+  <a href="https://kushalk.design">
+    <h2>View my Portfolio!</h2>
+  </a>
 
   <p>Here are my skills:</p>
 
