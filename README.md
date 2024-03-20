@@ -8,9 +8,6 @@
   <h2>UI/UX Designer/Developer</h2>
 
   <br/>
-  <br/>
-  <br/>
-  <br/>
   
   <a href="https://kushalk.design">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-brightgreen" >
